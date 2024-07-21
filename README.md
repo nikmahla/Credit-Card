@@ -12,7 +12,8 @@ Technologies Used - Html , Css, Tailwind, Javascript
 
 Role - Frontend
 
-![card](https://github.com/nikmahla/CreditCard/assets/53364627/d172ca37-65c2-4442-a2e1-7c873b289ba8)
+![git](https://github.com/user-attachments/assets/ebb5fbe9-ac9a-4e5f-b559-cd1db74dcb86)
+
 
 
 
